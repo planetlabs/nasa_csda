@@ -1,0 +1,15 @@
+black
+ruff
+isort
+
+planet
+numpy
+pandas
+packaging
+pyogrio
+pyproj
+shapely
+geopandas
+
+matplotlib
+rasterio
