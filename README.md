@@ -27,7 +27,7 @@ ___
 
 ### Find a bug?
 
- Please [file an issue](https://github.com/planetlabs/nasa-csda/issues/new) and we'll get back to you as soon as possible.
+ Please [file an issue](https://github.com/planetlabs/nasa_csda/issues/new) and we'll get back to you as soon as possible.
 
 ___
 
